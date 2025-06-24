@@ -1,0 +1,5 @@
+# requirements.txt
+
+selenium-wire
+beautifulsoup4
+requests
